@@ -1,1 +1,2 @@
 welcome to git
+git commands git add git commit git push
